@@ -69,12 +69,3 @@ app/src/main/java/com/example/travelbuddy/
 
 **Requirements:** minSdk 24, compileSdk and targetSdk 35, Kotlin 2.0.21, Gradle 8.9.
 
----
-
-## Try it yourself
-
-1. Tap a destination. The detail page shows that place.
-2. Press back (arrow or system button) to return to the list. "Last viewed" is updated.
-3. Open the three-dot menu and choose **About**.
-4. Switch the phone to dark mode (Settings > Display > Dark theme) and check all three screens.
-5. Rotate the device. The same screen and destination stay in place.
