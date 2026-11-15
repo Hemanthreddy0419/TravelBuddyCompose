@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Only used for the window behind Compose (e.g. while the app starts).
+         The real look comes from TravelBuddyTheme in Compose. -->
+    <style name="Theme.TravelBuddy" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
